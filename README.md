@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Hugo and I'm a Sistem and Software Enginner , from Arequipa,Peru</h2>
+<h2 align="left">Hi 👋! My name is Hugo and I'm a Systems and Software Engineer , from Arequipa,Peru</h2>
 
 ###
 
